@@ -1,6 +1,66 @@
+
 body {
   margin: 0;
-  background: #121212;
+  padding: 0;
+  background: linear-gradient(to bottom right, #1e1e2f, #121212);
   color: white;
   font-family: sans-serif;
+}
+.container {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
+}
+.hero {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+.hero h1 {
+  font-size: 3rem;
+}
+.hero p {
+  font-size: 1.2rem;
+  color: #ccc;
+}
+.button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #3b82f6;
+  color: white;
+  text-decoration: none;
+  border-radius: 1rem;
+  margin-top: 1rem;
+}
+.features {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 3rem;
+  flex-wrap: wrap;
+}
+.card {
+  background: #2c2c3d;
+  padding: 1rem;
+  border-radius: 1rem;
+  flex: 1;
+  min-width: 250px;
+}
+.roadmap, .testimonials, .opensource {
+  margin-bottom: 3rem;
+}
+.roadmap ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
+.testimonials .card span {
+  color: #888;
+  font-size: 0.9rem;
+}
+footer {
+  text-align: center;
+  font-size: 0.85rem;
+  color: #aaa;
+  margin-top: 2rem;
+}
+footer a {
+  color: #3b82f6;
 }
