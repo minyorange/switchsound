@@ -87,6 +87,12 @@
 > Follow [@minyorange](https://x.com/minyorange) to watch it come to life 🚀
 
 ---
+## ☕  Support me
+
+ 🙌 If you find this project helpful, you can support it with a PayPal donation:
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T3EXU5CN48Z32)
+
 
 ## 📌 Hashtags
 
